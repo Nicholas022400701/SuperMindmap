@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+mysql-connector-python
+openai
+pydantic-settings
+SQLAlchemy
+httpx
+python-dotenv
+pytest
+pytest-asyncio
